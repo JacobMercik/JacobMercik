@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Jacob Mercik 👋
 
-<!--
-**JacobMercik/JacobMercik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 38-year-old developer based in Poland, currently obsessed with market efficiency and automated trading systems. 
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Optimizing my **Polymarket Arbitrage Bot**. After 4 months of heavy lifting in development, the system is officially **Live**, capturing real-time price gaps and executing automated trades across prediction markets.
+- 🌱 **I’m currently learning:** Advanced latency optimization and cross-chain liquidity patterns to make my execution even faster.
+- 💬 **Ask me about:** Prediction markets, arbitrage strategies, and the logic behind identifying "opportunity gaps" in decentralized data.
+- 📫 **How to reach me:** [Insert your Email/Twitter/Telegram here]
+- ⚡ **Fun fact:** I spent 120 days straight staring at Polymarket order books so you don't have to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python / JavaScript (Node.js) / Solidity
+- **Niche:** DeFi Automation, Web3 Integration, Arbitrage Logic
+- **Platform:** Polymarket / Polygon Network
+
+---
+
+### 📈 Project Status: Polymarket Arbitrage Bot
+| Feature | Status |
+| :--- | :--- |
+| **Real-time Scanning** | ✅ Active |
+| **Opportunity Gap Detection** | ✅ Live |
+| **Auto-Execution Engine** | ✅ Operational |
+| **Multi-Market Support** | 🏗️ In Progress |
+
+*"The market never sleeps, so my code doesn't either."*
